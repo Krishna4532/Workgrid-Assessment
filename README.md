@@ -14,7 +14,6 @@ Built for the Newtonite Software Engineering Challenge, **"Operations Under Pres
 
 | | |
 |---|---|
-| **Live API** | https://workgrid-assessment.onrender.com/docs (if idle, the first request can take about a minute to wake) |
 | **Run it locally** | [Run it locally](#run-it-locally), about 5 minutes |
 | **Guided walkthrough** | [`DEMO_SCRIPT.md`](./DEMO_SCRIPT.md): 12 steps, one per critical behaviour |
 
